@@ -9,3 +9,4 @@ public class Square {
         System.out.println("Площадь квадрата = " + areaSquare );
     }
 }
+
