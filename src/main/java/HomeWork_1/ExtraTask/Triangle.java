@@ -7,7 +7,7 @@ public class Triangle {
         int side2 = 5;
         int side3 = 5;
 
-        double s = (double) (side1 + side2 + side3) /2;
+        double s = (double) (side1 + side2 + side3)/2;
 
         double areaTriangle = (int) Math.sqrt(s * ((s - side1) * (s - side2) * s - side3));
 
